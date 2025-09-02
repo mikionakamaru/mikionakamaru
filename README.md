@@ -1,10 +1,5 @@
-## 🛡️ Defendendo o digital, fortalecendo a segurança.
+## 🛡️ Welcome my Personal GitHub 👋
 
-- 🔭 Atualmente, estou focado em otimizar a segurança de endpoints e aprimorar a detecção e resposta a ameaças.
-- 🌱 Constantemente explorando as novidades do ecossistema Microsoft Security, com ênfase em automação e caça a ameaças.
-- 👯 Aberto a colaborar em projetos de segurança cibernética e iniciativas de código aberto.
-- 💬 Sinta-se à vontade para me perguntar sobre gerenciamento de dispositivos, proteção de endpoints, SIEM e SOC (Security Operations Center).
-  <div>
 ##
   <div align="center">
     <a href="https://github.com/mikionakamaru">
